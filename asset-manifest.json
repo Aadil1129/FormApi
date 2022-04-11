@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FormApi/static/css/main.90e39161.css",
+    "main.js": "/FormApi/static/js/main.0d9deb58.js",
+    "static/js/787.aeb39de0.chunk.js": "/FormApi/static/js/787.aeb39de0.chunk.js",
+    "static/media/formback.png": "/FormApi/static/media/formback.ac3a127997a8ad213c96.png",
+    "index.html": "/FormApi/index.html",
+    "main.90e39161.css.map": "/FormApi/static/css/main.90e39161.css.map",
+    "main.0d9deb58.js.map": "/FormApi/static/js/main.0d9deb58.js.map",
+    "787.aeb39de0.chunk.js.map": "/FormApi/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e39161.css",
+    "static/js/main.0d9deb58.js"
+  ]
+}
